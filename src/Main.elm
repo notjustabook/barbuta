@@ -63,6 +63,6 @@ view model =
             [ Html.text "This is my first teeeext!"
             ]
         , Html.div []
-            [ Html.img [ Html.Attributes.src "./images/A1.png" ] []
+            [ Html.img [ Html.Attributes.src "src/images/A1.png" ] []
             ]
         ]
